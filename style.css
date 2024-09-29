@@ -1,0 +1,24 @@
+.cutyCate{
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 300px;
+    border-radius: 5%;
+}
+body{
+    background-image: url(istockphoto-1140074270-612x612.jpg);
+
+}
+.mathNeardi{
+    background-color: rgb(230, 230, 250);
+    border-radius: 5%;
+}
+.fonctions{
+    position: absolute;
+    color: rgb(250, 0, 0);
+    background-color: rgb(230, 230, 250);
+    width: 25vw;
+    padding: 5vh 2vw;
+    border-radius: 10%;
+    font-size: 5vh;
+}
